@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.exe
+Installing service Serviceppe...
+Service Serviceppe has been successfully installed.
+Creating EventLog source Serviceppe in log Application...
+Committing assembly 'C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.exe
+Installing assembly 'C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.exe
+Installing service Serviceppe...
+Service Serviceppe has been successfully installed.
+Creating EventLog source Serviceppe in log Application...
+Committing assembly 'C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\gsb_service_PPE2-master\WindowsService_PPE\WindowsService_PPE\bin\Debug\WindowsService_PPE.exe
